@@ -1,3 +1,23 @@
+# DynamicBehaviorGen
+
+## Overview
+DynamicBehaviorGen extends the Vision-and-Language Navigation in Continuous Environments (VLN-CE) framework by incorporating generative models and NLP techniques to simulate dynamic behaviors based on textual instructions. Our project aims to bridge the gap between traditional navigation models and the nuanced complexity of human language, facilitating a more intuitive interaction between agents and their environments.
+
+## Modifications and Features
+- Introduction of NLP-based decision-making processes.
+- Integration of generative models for enhanced path prediction and behavior generation.
+- Customized training procedures tailored to dynamic behavior simulation.
+
+## Setup and Installation
+Follow the initial setup instructions on the [VLN-CE repository](https://github.com/jacobkrantz/VLN-CE). Additional requirements specific to DynamicBehaviorGen include:
+- Python libraries: [list any new libraries and installation steps].
+- Dataset modifications: [describe any changes or additions to the data].
+
+## Usage
+How to run simulations and train models using the extended framework.
+
+
+
 # Vision-and-Language Navigation in Continuous Environments (VLN-CE)
 
 [Project Website](https://jacobkrantz.github.io/vlnce/) — [VLN-CE Challenge](https://eval.ai/web/challenges/challenge-page/719) — [RxR-Habitat Challenge](https://ai.google.com/research/rxr/habitat)
